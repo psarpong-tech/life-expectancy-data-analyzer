@@ -21,3 +21,34 @@ The program reads information from a CSV file and allows users to:
 - Uses CSV data processing
 
 ## Files
+
+data_analyzer.py
+
+Contains the Python code that analyzes the data.
+
+life-expectancy.csv
+
+Contains the life expectancy dataset.
+
+## How to Run
+
+1. Download or clone this repository.
+
+2. Make sure Python is installed.
+
+3. Run:
+
+
+python data_analyzer.py
+
+
+4. Enter a year from the dataset when prompted.
+
+## Technologies Used
+
+- Python
+- CSV file handling
+
+## Author
+
+Priscilla Gyasiwaa Sarpong
